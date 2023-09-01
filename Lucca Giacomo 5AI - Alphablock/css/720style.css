@@ -1,0 +1,292 @@
+@media only screen and (max-width: 950px)
+{
+	
+	div #p
+	{
+		width:95%;
+		margin-right:5px;
+		margin-left:5px;
+		margin-bottom:50px;
+		height:300px;
+		font-size:26pt;
+	}
+	
+	h1
+	{
+		font-size:50pt;
+	}
+		
+	
+	.box
+	{
+		font-size:26pt;
+		float:none;
+		clear:both;
+		margin-left:150px
+	}
+		.box h4
+		{
+			font-size:30pt;
+		}
+		
+		.box p
+		{
+			font-size:60pt;
+			margin-top:-25px
+		}
+	
+	.abbonamento
+	{
+		width:40%;
+		height:400px
+	}
+	
+	div #a
+	{
+		width:40%;
+		
+	}
+	
+	#login-index a
+	{
+		width:300px;
+		margin-right:150x;
+		margin-left:150px;
+	}
+	
+	#contenitore-film
+	{
+		height:1900px;
+	}
+		#contenitore-film h1
+		{
+			font-size:50pt;
+		}
+	
+	#film
+	{
+		font-size:26pt;
+		width:1000px;
+		height:1500px;
+	}
+		#film img
+		{
+			height:500px;
+			margin-right:50px;
+			margin-left:25px;
+			margin-top:50px
+		}
+		
+	.dispotivo-div
+	{
+		height:800px;
+		font-size:24pt
+	}
+	
+	.login
+	{
+		height:650px;
+		width:500px;
+	}
+		.login form
+		{
+			height:60%;
+		}
+		
+	.account
+	{
+		float:none;
+		margin:auto;
+		width:400px;
+		margin-top:150px;
+		font-size:24pt;
+		text-align:center;
+	}
+		.account img
+		{
+			width:250px
+		}
+		.account p
+		{
+			margin-top:-50px;
+		}
+		
+	#mod
+	{
+		width:250px;
+		text-align:center;
+		font-size:24pt;
+		margin-bottom:50px
+	}
+	
+	.utente
+	{
+		width:550px;
+		font-size:18pt;
+	}
+	
+		.utente img
+		{
+			width:250px;
+			margin-bottom:-50px
+		}
+		
+		.utente input[type=text]
+		{
+			font-size:18pt;
+			width:250px
+		}
+		
+		.utente input[type=submit]
+		{
+			font-size:18pt;
+			padding-left:50px
+		}
+		
+	
+	#cerca
+	{
+		font-size:16pt;
+		width:90%;
+		height:40px;
+		margin-left:1%
+	}
+	
+	.searchbar
+	{
+		float:left;
+		width:94.5%;
+	}
+	
+	#risposta
+	{
+		float:left;
+		font-size:16pt;
+		text-align:left;
+		width:97%;
+		position:absolute;
+		margin-top:135px
+	}
+		#risposta a:hover
+		{
+			width:90%;
+		}
+	
+	.dropdown
+	{
+		font-size:18pt;
+		float:right;
+		width:70%;
+		margin:auto;
+		margin-top:-140px;
+	}
+	
+	.dropdown-content
+	{
+		width:90%;
+		margin:auto;
+		margin-top:65px;
+		text-align:center;
+	}
+	
+	.testo
+	{
+		margin-right:0
+	}
+	
+	.banner
+	{
+		width:500px;
+		height:350px
+	}
+		.banner img
+		{
+			width:500px;
+		}
+		
+	#h1
+	{
+		margin-top:100px
+	}
+	
+	.nav
+	{
+		height:155px
+	}
+	
+	.genere h2
+	{
+		font-size:20pt
+	}
+	
+	.visualizzo_film
+	{
+		margin-left:-50px;
+		height:150%;
+		padding:20px
+	}
+		.visualizzo_film img
+		{
+			width:250px;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+		.visualizzo_film h1
+		{
+			font-size:16pt
+		}
+		
+	#anguria
+	{
+		font-size:30pt
+	}
+	
+	.impostazioni
+	{
+		display:inline-block;
+		height:auto;
+		width:102.5%;
+		margin-left:-55;
+	}
+	
+	.imp
+	{
+		float:none;
+		margin-top:100px;
+		margin-left:-30px;
+		width:100%
+	}
+	
+	.cronologia
+	{
+		width:90%
+	}
+	
+	.intestazione-h1
+	{
+		margin-top:-150px;
+		text-align:left;
+		margin-left:175px;
+		font-size:40pt
+	}
+	
+	#aggiungi
+	{
+		display: block;
+		width:300px;
+		margin-left:auto;
+	}
+	
+	input[type=checkbox]
+	{
+		width:20px;
+		height:20px;
+	}
+	
+	#h1conf
+	{
+		font-size:45pt
+	}
+}

@@ -1,0 +1,94 @@
+@media only screen and (min-width: 950px)
+{	
+	div #p
+	{
+		width:700px;
+		height:254px;
+		margin-bottom:200px;
+	}
+	
+	.box
+	{
+		margin-top:-500px
+	}
+	
+	#contenitore-film
+	{
+		height:650px;
+	}
+	
+	#film
+	{
+		width:900px;
+		height:475px;
+	}
+		
+		#film img
+		{
+			height:250px;			
+			margin-right:25px;
+			margin-top:50px
+		}
+		
+	.dispotivo-div
+	{
+		height:520px;
+	}
+	
+	#aa
+	{
+		float:left;
+	}
+	#ab
+	{
+		float:right;
+		margin-left:250px;
+	}
+	
+	.login
+	{
+		width:800px;
+	}
+		.login form
+		{
+			height:70%;
+		}
+		
+	.errore
+	{
+		margin-top:50px
+	}
+	
+	.clearfix
+	{
+		width:1000px;
+		margin:auto;
+	
+	}
+		.account img,.utente img
+		{
+			width:150px;
+		}
+	
+	#mod
+	{
+		width:100px;
+		font-size:15px
+	}
+	
+	#risposta a:hover
+	{
+		width:400px;
+	}
+	
+	.banner img
+	{
+		width:750px
+	}
+	
+	.visualizzo_film img
+	{
+		float:left;
+		margin-right:50px
+	}
+}
